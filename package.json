@@ -8,6 +8,7 @@
     "async": "~0.2.8",
     "body-parser": "^1.18.3",
     "connect-flash": "^0.1.1",
+    "dotenv": "^6.0.0",
     "ejs": "^2.6.1",
     "express": "^3.2.6",
     "express-session": "^1.15.6",
